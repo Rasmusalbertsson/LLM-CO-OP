@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_KEY = "Text Geration API_KEY "  # Bäst att lagra detta säkert i en .env-fil
+API_KEY = "Text Geration API_KEY"  # Bäst att lagra detta säkert i en .env-fil
 
 st.title("Text Generation med Deepseek R1-7b")
 
